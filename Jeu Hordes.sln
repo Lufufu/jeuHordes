@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu Hordes.CSharp.Plugins", "Jeu Hordes.CSharp.Plugins.csproj", "{6CCEB97B-07A2-59FF-A732-0BEAED7D3FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu Hordes.CSharp", "Jeu Hordes.CSharp.csproj", "{264ADE1C-370D-27FD-8EC8-5083F1124528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu Hordes.CSharp.Editor.Plugins", "Jeu Hordes.CSharp.Editor.Plugins.csproj", "{E5B565D2-AAEA-5BF8-202B-3E728A385AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu Hordes.CSharp.Editor", "Jeu Hordes.CSharp.Editor.csproj", "{E4D46C97-56F3-EA72-3AB7-93ABA18DCB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CCEB97B-07A2-59FF-A732-0BEAED7D3FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCEB97B-07A2-59FF-A732-0BEAED7D3FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCEB97B-07A2-59FF-A732-0BEAED7D3FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCEB97B-07A2-59FF-A732-0BEAED7D3FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264ADE1C-370D-27FD-8EC8-5083F1124528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264ADE1C-370D-27FD-8EC8-5083F1124528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264ADE1C-370D-27FD-8EC8-5083F1124528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264ADE1C-370D-27FD-8EC8-5083F1124528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B565D2-AAEA-5BF8-202B-3E728A385AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B565D2-AAEA-5BF8-202B-3E728A385AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B565D2-AAEA-5BF8-202B-3E728A385AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B565D2-AAEA-5BF8-202B-3E728A385AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D46C97-56F3-EA72-3AB7-93ABA18DCB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D46C97-56F3-EA72-3AB7-93ABA18DCB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D46C97-56F3-EA72-3AB7-93ABA18DCB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D46C97-56F3-EA72-3AB7-93ABA18DCB11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
