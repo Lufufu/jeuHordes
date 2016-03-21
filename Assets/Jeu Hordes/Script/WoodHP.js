@@ -2,12 +2,14 @@
 
 private var curWood =10;
 
-function update (){
-    curWood -=1;
-    print("test");
 
-    if (curWood <= 0){
-        print("test1");
+
+function BoisHP ()
+{
+    curWood -=1;
+
+    if (curWood <= 0)
+    {
         Destroy (gameObject);
     }
 

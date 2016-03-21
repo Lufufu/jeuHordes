@@ -27,8 +27,7 @@ function Update ()
                 {
                     guiShow = false;
                     bois.wood +=1;
-                    //boisHP.curWood -=1;
-                    boisHP.update();
+                    boisHP.BoisHP();
                 }
 
             
