@@ -3,8 +3,8 @@
 
 
 ###jeuHordes/Assets/Jeu Hordes/
-mettre les différentes choses que l'on utilise
+mettre les diffÃ©rentes choses que l'on utilise sur unity dans ce rÃ©pertoire
 
 
 
-### Merci de mettre Assets téléchargées sur le store dans le repertoire /Assets/Store
+### Merci de mettre Assets tÃ©lÃ©chargÃ©es sur le store dans le repertoire /Assets/Store
