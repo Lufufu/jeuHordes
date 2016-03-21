@@ -1,4 +1,5 @@
-reated by https://www.gitignore.io/api/unity
+
+# Created by https://www.gitignore.io/api/unity
 
 ### Unity ###
 /[Ll]ibrary/
@@ -31,4 +32,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-
