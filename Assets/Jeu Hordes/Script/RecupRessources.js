@@ -2,16 +2,16 @@
 
 
 private var guiShow : boolean = false;
-var bois : BarreBois;
-var boisHP : WoodHP;
-var rayLength = 10;
+private var bois : BarreBois;
+private var boisHP : WoodHP;
+private var rayLength = 10;
 
 function Start (){
     bois = GameObject.Find("Player").GetComponent(BarreBois);
     boisHP = GameObject.Find("Arbre").GetComponent(WoodHP);
 }
 
-function Update () 
+function RecupBois () 
 {
     var hit : RaycastHit;
     var fwd = transform.TransformDirection(Vector3.forward);
@@ -37,4 +37,10 @@ function Update ()
     {
         guiShow = false;
     }
+}
+
+function Update ()
+{
+	RecupBois();
+
 }

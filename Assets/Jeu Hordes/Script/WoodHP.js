@@ -1,8 +1,6 @@
 ﻿#pragma strict
 
-private var curWood =10;
-
-
+var curWood =10;
 
 function BoisHP ()
 {
